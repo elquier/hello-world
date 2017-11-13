@@ -1,5 +1,5 @@
 # hello-world
-Learning how to use GitHub
+Learning how to use GitHub. \n
 Editando este documento e aprendendo sobre a função dos branches.
 Quando se cria um repositório, ele já vem com o branch master por padrão.
 Quando se cria um branch a partir do master, o novo branch possui uma cópia do branch master.
